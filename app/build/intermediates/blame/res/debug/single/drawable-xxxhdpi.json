@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_perm_identity_white_24dp.png",
+        "source": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_perm_identity_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_white_24dp.png",
+        "source": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_check_box_outline_blank_white_24dp.png",
+        "source": "C:\\Users\\Prajin Bajracharya\\AndroidStudioProjects\\Login\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_check_box_outline_blank_white_24dp.png"
+    }
+]
